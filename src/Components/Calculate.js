@@ -1,5 +1,3 @@
-import React from 'react';
-
 function Calculate(squares) {
     const lines = [
       [0, 1, 2],
